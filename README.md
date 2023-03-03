@@ -1,4 +1,4 @@
-# chatGPT-java
+# chatgpt-java-web
 留下邮箱发源码
 # 在线体验
 > http://chat.codelicence.cn/
