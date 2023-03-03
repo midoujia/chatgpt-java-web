@@ -1,7 +1,5 @@
 # chatgpt-java-web
-留下邮箱发源码
-# 项目框架
-项目基于Java8 + springboot + maven +前端
+留下邮箱发源码，项目基于Java8 + springboot + maven +前端
 # 在线体验
 > http://chat.codelicence.cn/
 
